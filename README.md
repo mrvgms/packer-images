@@ -1,1 +1,1 @@
-# packer-mgs
+# packer-images
